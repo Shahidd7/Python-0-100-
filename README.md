@@ -386,8 +386,8 @@ This approach emphasizes **thinking like a software engineer** instead of copyin
 Clone the repository:
 
 ```bash
-git clone https://github.com/Shahidd7/python-developer-portfolio.git
-cd python-developer-portfolio
+git clone https://github.com/Shahidd7/python-projects-roadmap.git
+cd python-projects-roadmap
 ```
 
 Create a virtual environment:
